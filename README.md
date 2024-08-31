@@ -1,4 +1,4 @@
-<div style="background-image: url('[https://path_to_your_image](https://www.shutterstock.com/image-illustration/developer-8k-black-desktop-wallpaper-260nw-2250520199.jpg)'); padding: 20px; border-radius: 10px;">
+<div style="background-image: url('[https://media.istockphoto.com/id/1355584056/vector/vector-illustrations-of-futuristic-hi-tech-blue-technology.jpg?s=612x612&w=0&k=20&c=LkHcYwZbmXfQ15EkLbuZno4q7fT6VKLOXQI6ZcxmGeg=]'); padding: 20px; border-radius: 10px;">
   
   # Hello, I'm Tavleen Kaur 👋
   
@@ -16,10 +16,9 @@
   - **E-commerce Platform**: A complete e-commerce solution built with Java, showcasing robust backend capabilities.
   - **Bitcoin & Todo App**: A modern web application built with React, focusing on real-time data handling.
   - **SCM 2.0**: A sophisticated project using Java Spring Boot, designed to streamline supply chain management processes.
-  - **Portfolio Website**: My personal portfolio highlighting my skills and projects. [Check out my GitHub](https://github.com/yourusername) for more projects.
+  - **Portfolio Website**: My personal portfolio highlighting my skills and projects. [Check out my GitHub](https://github.com/TavleenKaur31) for more projects.
 
-  ### 📈 GitHub Stats
-  ![Tavleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  
 
   ### 📫 Let's Connect
   - [LinkedIn](https://www.linkedin.com/in/tavleen-kaur-842909264/)
